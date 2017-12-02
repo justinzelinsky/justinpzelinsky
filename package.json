@@ -1,6 +1,6 @@
 {
     "name": "justinpzelinsky",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Who is Justin P. Zelinsky?",
     "main": "index.js",
     "scripts": {
@@ -13,5 +13,9 @@
         "contact"
     ],
     "author": "Justin P. Zelinsky",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/justinzelinsky/justinpzelinsky.git"
+    }
 }
