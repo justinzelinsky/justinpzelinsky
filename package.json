@@ -1,16 +1,17 @@
 {
-  "name": "justinpzelinsky",
-  "version": "1.0.1",
-  "description": "Who is Justin P. Zelinsky?",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "programmer",
-    "author",
-    "contact"
-  ],
-  "author": "Justin P. Zelinsky",
-  "license": "MIT"
+    "name": "justinpzelinsky",
+    "version": "1.0.2",
+    "description": "Who is Justin P. Zelinsky?",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "programmer",
+        "author",
+        "contact"
+    ],
+    "author": "Justin P. Zelinsky",
+    "license": "MIT"
 }
