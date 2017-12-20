@@ -4,5 +4,8 @@
     "contact": {
         "email": "jpzelinsky@gmail.com"
     },
-    "github": "https://github.com/justinzelinsky"
+    "github": "https://github.com/justinzelinsky",
+    "tech": [
+        "javascript", "react", "python", "node", "css3", "html5", "webpack"
+    ]
 }
