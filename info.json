@@ -7,19 +7,19 @@
     },
     "github": "https://github.com/justinzelinsky",
     "technology": {
-      "ui": [
-        "babel",
-        "css",
-        "html",
-        "javascript",
-        "react",
-        "redux",
-        "typescript",
-        "webpack"
-      ],
-      "backend": [
-        "node",
-        "python"
-      ]
+        "ui": [
+            "babel",
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "redux",
+            "typescript",
+            "webpack"
+        ],
+        "backend": [
+            "node",
+            "python"
+        ]
     }
 }
