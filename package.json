@@ -1,6 +1,6 @@
 {
   "name": "justinpzelinsky",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Who is Justin P. Zelinsky?",
   "bin": "index.js",
   "scripts": {
