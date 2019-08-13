@@ -1,25 +1,23 @@
 {
-    "name": "Justin P. Zelinsky",
-    "location": "Baltimore, MD",
-    "employed": "true",
-    "contact": {
-        "email": "jpzelinsky@gmail.com"
-    },
-    "github": "https://github.com/justinzelinsky",
-    "technology": {
-        "ui": [
-            "babel",
-            "css",
-            "html",
-            "javascript",
-            "react",
-            "redux",
-            "typescript",
-            "webpack"
-        ],
-        "backend": [
-            "node",
-            "python"
-        ]
-    }
+  "name": "Justin P. Zelinsky",
+  "location": "Baltimore, MD",
+  "employed": "true",
+  "contact": {
+    "email": "jpzelinsky@gmail.com"
+  },
+  "github": "https://github.com/justinzelinsky",
+  "technology": {
+    "ui": [
+      "babel",
+      "css",
+      "html",
+      "javascript",
+      "react",
+      "redux",
+      "typescript",
+      "webpack"
+    ],
+    "backend": ["node", "python"]
+  },
+  "npmModules": ["hexify-string", "apod-bg"]
 }
