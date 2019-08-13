@@ -1,22 +1,22 @@
 {
-    "name": "justinpzelinsky",
-    "version": "1.0.8",
-    "description": "Who is Justin P. Zelinsky?",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "author",
-        "bio",
-        "contact",
-        "programmer"
-    ],
-    "author": "Justin P. Zelinsky",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/justinzelinsky/justinpzelinsky.git"
-    }
+  "name": "justinpzelinsky",
+  "version": "1.0.8",
+  "description": "Who is Justin P. Zelinsky?",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "author",
+    "bio",
+    "contact",
+    "programmer"
+  ],
+  "author": "Justin P. Zelinsky",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinzelinsky/justinpzelinsky.git"
+  }
 }

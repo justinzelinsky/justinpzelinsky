@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+
 const fs = require('fs');
 
 fs.readFile('./info.json', 'utf-8', (err, data) => {
