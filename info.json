@@ -10,14 +10,33 @@
     "ui": [
       "babel",
       "css",
+      "ember",
       "html",
       "javascript",
       "react",
       "redux",
+      "scss",
       "typescript",
       "webpack"
     ],
     "backend": ["node", "python"]
   },
-  "npmModules": ["hexify-string", "apod-bg"]
+  "npmModules": [
+    {
+      "name": "hexify-string",
+      "url": "https://www.npmjs.com/package/hexify-string"
+    },
+    {
+      "name": "apod-bg",
+      "url": "https://www.npmjs.com/package/apod-bg"
+    },
+    {
+      "name": "rainymood",
+      "url": "https://www.npmjs.com/package/rainymood"
+    },
+    {
+      "name": "gpio-components",
+      "url": "https://www.npmjs.com/package/gpio-components"
+    }
+  ]
 }
